@@ -1,4 +1,4 @@
-# Backpack 01 – HTML • CSS • JavaScript (60 Marks)
+# Backpack 01 – HTML • CSS • JavaScript 
 
 This assignment contains structured Question & Answers based on  
 HTML, CSS and JavaScript fundamentals.  

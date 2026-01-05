@@ -252,5 +252,3 @@ Web standard used to interact with servers.
 They allow apps to share data and functionality.
 
 ---
-
-✅ **Assignment Completed Successfully**
